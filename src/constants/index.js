@@ -176,27 +176,27 @@ company_name: "Student Organization",
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "--",
+    name: "You",
+    designation: "--",
+    company: "--",
+    image: "",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "--",
+    name: "You",
+    designation: "--",
+    company: "--",
+    image: "",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "--",
+    name: "You",
+    designation: "--",
+    company: "--",
+    image: "",
   },
 ];
 
@@ -204,65 +204,65 @@ const projects = [
   {
     name: "Website Gpibi (2025)",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Creating a full stack Laravel 10 application that provides an attractive interface in a church in Yogyakarta",
     tags: [
       {
-        name: "react",
+        name: "Bootstrap 5",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Mysql",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Laravel 10 ",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/efraim20005",
   },
   {
-    name: "Job IT",
+    name: "Apllication Scan Presensi By Qr-code Controller",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Create a presence application for each class, which prioritizes speed and accuracy.",
     tags: [
       {
-        name: "react",
+        name: "Javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "mysql",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Laravel",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/efraim20005",
   },
   {
-    name: "Trip Guide",
+    name: "room reservation",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Creating a room reservation application in the Faculty of Physics and Computers, which aims to facilitate access and information per class.",
     tags: [
       {
-        name: "nextjs",
+        name: "Filament",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Mysql",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "React",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/efraim20005",
   },
 ];
 
